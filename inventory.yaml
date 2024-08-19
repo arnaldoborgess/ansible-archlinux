@@ -21,8 +21,8 @@ work:
 
 youtube:
   vars:
-    git_name: Caio Delgado          # same as git config --global user.name
-    git_email: caio@nxt.sh          # same as git config --global user.email
+    git_name: Arnaldo Borges          # same as git config --global user.name
+    git_email: arnaldoborgges@outlook.com         # same as git config --global user.email
     virtual_machine: true           # install and secure qemu-guest-agent    [true/false]
     desktop_environment: true       # install desktop environment            [true/false]
     ghostty_install: false          # install ghostty (beta access)          [true/false]
